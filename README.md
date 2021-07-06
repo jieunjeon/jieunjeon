@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there 👋   
+   
+I am a Software Engineer with a Bachelor of Science in Computer Science and experience designing and developing fullstack web and mobile applications from concept to deployment. Hands-on Software Developer focused on building and implementing intuitive and responsive UI components while optimizing infrastructure performance and reliability to create a seamless user experience.
 <!--
 **jieunjeon/jieunjeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
