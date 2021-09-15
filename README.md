@@ -15,7 +15,7 @@ I'm <b>MLOps Engineer</b> with a Bachelor of Science in Computer Science and exp
  
  Also enjoying building and implementing intuitive and responsive UI components while optimizing infrastructure performance and reliability to create a seamless user experience.💖<br/>
  
-  I enjoy hiking and climbing. 🎥⛰🏃🏻‍♀️🧗🏻‍♂️<br/>
+ Fun Fact: I enjoy hiking and climbing. 🎥⛰🏃🏻‍♀️🧗🏻‍♂️<br/>
   Always questioning existing frameworks and promote positive change ✨ <br/><br/>
 </p>
 
