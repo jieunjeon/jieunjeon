@@ -8,16 +8,25 @@
 
 ### Hi there 👋   
 <p>
-I'm <b>MLOps Engineer</b> with a Bachelor of Science in Computer Science and experience designing and developing fullstack web and mobile applications from concept to deployment.🚀   
+I'm a <b>Data Engineer</b> with a Bachelor of Science in Computer Science and experience designing and developing fullstack web and mobile applications from concept to deployment.🚀   
 </p>
-<p>
- Hands-on Software Developer focused on automating the deployment of ML models into the core software system or as a service component.
+
+
+### I'm currently working on
+Cloud DevOps & Infrastructure in a 🧬 Pharmacogenomics Startup 💊
+
+<br/>
+
+### About me
+ - Always questioning existing frameworks and promote positive change ✨
+ - Hands-on Software Developer focused on automating the deployment of ML models into the core software system or as a service component.
  
- Also enjoying building and implementing intuitive and responsive UI components while optimizing infrastructure performance and reliability to create a seamless user experience.💖<br/>
+ - Also enjoying building and implementing intuitive and responsive UI components while optimizing infrastructure performance and reliability to create a seamless user experience.💖<br/>
  
- Fun Fact: I enjoy hiking and climbing. 🎥⛰🏃🏻‍♀️🧗🏻‍♂️<br/>
-  Always questioning existing frameworks and promote positive change ✨ <br/><br/>
-</p>
+ - Fun Fact: I enjoy hiking and climbing. 🎥⛰🏃🏻‍♀️🧗🏻‍♂️<br/>
+
+<br/>
+
 
 ### 💪 Skills
 #### Platforms & Languages
