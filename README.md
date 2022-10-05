@@ -13,7 +13,7 @@ I'm a <b>Data Engineer</b> with a Bachelor of Science in Computer Science and ex
 
 
 ### I'm currently working on
-Cloud DevOps & Infrastructure in a 🧬 Pharmacogenomics Startup 💊
+Cloud DevOps & Infrastructure & Software Engineering in a 🧬 Pharmacogenomics Startup 💊
 
 <br/>
 
