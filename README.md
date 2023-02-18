@@ -8,14 +8,8 @@
 
 ### Hi there 👋   
 <p>
-I'm a <b>Data Engineer</b> with a Bachelor of Science in Computer Science and experience designing and developing fullstack web and mobile applications from concept to deployment.🚀   
+I'm a <b>Machine Learning Engineer</b> with a Bachelor of Science in Computer Science and experience designing and developing fullstack web and mobile applications from concept to deployment.🚀   
 </p>
-
-
-### I'm currently working on
-Cloud DevOps & Infrastructure & Software Engineering in a 🧬 Pharmacogenomics Startup 💊
-
-<br/>
 
 ### About me
  - Always questioning existing frameworks and promote positive change ✨
